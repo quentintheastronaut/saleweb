@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SalesWebApplication<SalesWeb>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "jp.co.fois.sales.SalesWebApplication",
+            "projectName": "SalesWeb",
+            "args": ""
+        }
+    ]
+}
